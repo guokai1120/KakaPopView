@@ -5,6 +5,7 @@
 
 typedef NS_ENUM(NSInteger, KKDirectionType)
 {
+
     KKTypeOfUpLeft,     // 上左
     KKTypeOfUpCenter,   // 上中
     KKTypeOfUpRight,    // 上右
